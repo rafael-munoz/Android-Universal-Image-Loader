@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string-array name="heavy_images">
-        <item>file:///mnt/sdcard/Temp/UniversalImageLoader.png</item>
+        <!-- <item>file:///mnt/sdcard/Temp/UniversalImageLoader.png</item> -->
         <item>http://www.android.com/media/wallpaper/gif/android_logo.gif</item>
         <item>http://www.android.com/media/wallpaper/gif/cupcake_2009.gif</item>
         <item>http://cdn4.digitaltrends.com/wp-content/uploads/2011/04/Google-Android.png</item>
@@ -83,9 +82,11 @@
         <item>http://c.wrzuta.pl/wm16596/a32f1a47002ab3a949afeb4f</item>
         <item>http://www.itsquix.com/images/buttons/myspace_button.png</item>
         <item>http://macprovid.vo.llnwd.net/o43/hub/media/1090/6882/01_headline_Muse.jpg</item>
-        <item>http://bit.ly/soBiXr</item> <!-- Redirect link -->
-        <item>http://bit.ly/corruptedLink</item> <!-- Wrong link -->
-        <item></item> <!-- Empty link -->
+        <item>http://bit.ly/soBiXr</item>
+ <!-- Redirect link -->
+        <item>http://bit.ly/corruptedLink</item>
+ <!-- Wrong link -->
+        <item></item>
+ <!-- Empty link -->
     </string-array>
-
 </resources>
